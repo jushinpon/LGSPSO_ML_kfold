@@ -1,0 +1,7 @@
+*.dat
+*.out
+*.txt
+*.sout
+*.log
+test*.pl
+*/*
